@@ -6,6 +6,8 @@ public class insert{
     System.out.println("After Insert:" +sb);
     sb.delete(0,1);
     System.out.println("After Delete:" +sb);
+    String mystr="hiii";
+    System.out.println(mystr.replace('i','o'));
     }
 
 
